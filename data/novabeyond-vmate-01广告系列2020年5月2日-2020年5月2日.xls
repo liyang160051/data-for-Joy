@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <WorkbookGuid dt:dt="string">e91465c6-eb9e-4e7b-b5d7-3f0743c267f4</WorkbookGuid>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8055</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="等线" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="等线" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="51" ss:DefaultRowHeight="13.875">
+   <Column ss:AutoFitWidth="0" ss:Width="150" ss:Span="8"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">报告开始日期</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">报告结束日期</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">广告系列名称</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">广告系列编号</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">展示次数</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">点击量（全部）</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">花费金额 (USD)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">成效 [点击后 7 天]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">成效指标</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Novabeyond_Vmate_And_IN_0.21_hale_0317_pic1_deeplink</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">23844446276070254</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">81063</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3176</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">32.020000000000003</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">152</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Novabeyond_Vmate_And_IN_0.21_hale_0402_pic_duanwai</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">23844515983430254</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">421937</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7312</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">109.76</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">546</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Novabeyond_Vmate_And_IN_0.21_hale_0409_pic_duanwai</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">23844551104370254</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">667145</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">26274</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">188.71</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">988</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Novabeyond_Vmate_And_IN_0.21_hale_0420_pic_meinv&amp;status</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">23844628805450254</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">43822</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1118</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.14</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2020-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Novabeyond_Vmate_And_IN_0.21_hale_0430_new</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">23844714777880254</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">66516</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1341</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">12.22</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <LeftColumnVisible>4</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R2C3:R6C3</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

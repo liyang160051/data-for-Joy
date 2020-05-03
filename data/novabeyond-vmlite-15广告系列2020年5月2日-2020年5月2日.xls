@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s36">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      <Style ss:ID="s101">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                                <Font ss:FontName="Verdana" ss:Bold="1"/>
+                              </Style>
+                              <Style ss:ID="s100">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                              </Style></Styles>
+<Worksheet ss:Name="Sheet1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s34"><Data ss:Type="String">报告开始日期</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">报告结束日期</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">广告系列名称</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">广告系列编号</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">展示次数</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">点击量（全部）</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">花费金额 (USD)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">成效</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">成效 [广告]</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">成效 [查看后 1 天]</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">成效 [点击后 7 天]</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">成效指标</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Novabeyond_lite_And_IN_0.13_hale_0211_pic</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">23844089968920171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">705237</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27510</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">237.38</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2537</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">198</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2339</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Novabeyond_lite_And_IN_0.13_hale_0323_pic</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">23844258571300171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1021430</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">44649</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">427.97</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">453</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3862</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Novabeyond_lite_And_IN_0.13_hale_0423_vid</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">23844414682540171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1034056</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12395</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">258.29</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2782</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">413</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2369</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2020-05-02</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Novabeyond_lite_And_IN_0.13_hale_0426_goodmorning</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">23844430911840171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">164591</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3951</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">36.32</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">431</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">80</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">351</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:mobile_app_install</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
